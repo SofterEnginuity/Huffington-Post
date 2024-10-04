@@ -7,7 +7,7 @@ This page is a responsive version of a Huffington Post screenshot.
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS
 
 This one was build from scratch, all html and css! The media queries are where the magic happened, trying to get the layouts to change based on screensize was pretty fun.
 
