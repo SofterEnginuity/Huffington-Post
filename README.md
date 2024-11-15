@@ -3,8 +3,8 @@ This page is a responsive version of a Huffington Post screenshot.
 
 **Link to project:** https://huffpomarkup.netlify.app/
 
-![alt tag](https://i.imgur.com/eu3Kv8I.png)
 
+<img src="https://i.imgur.com/eu3Kv8I.png" width=40% height=40%>
 ## How It's Made:
 
 **Tech used:** HTML, CSS
